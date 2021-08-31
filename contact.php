@@ -267,7 +267,7 @@
             </div>
             <div class="col-xl-7">
                 <div class="contact-form contact-page">
-                    <form id="contact-form" name="contact_form" class="default-form2" action="assets/contact.php" method="post">
+                    <form id="contact-form" name="contact_form" class="default-form2" action="contact_form.php" method="post">
                         <div class="row">
                             <div class="col-xl-6 col-lg-6">
                                 <div class="input-box"> 
