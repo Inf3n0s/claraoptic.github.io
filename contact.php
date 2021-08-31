@@ -297,7 +297,7 @@
                             <div class="col-xl-12">
                                 <div class="button-box">
                                     <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="">
-                                    <button class="btn-one" type="submit" data-loading-text="Asteapta ...">
+                                    <button class="btn-one" type="submit" name="submit" data-loading-text="Asteapta ...">
                                         <span class="txt">Trimite un mesaj <i class="fa fa-angle-double-right round" aria-hidden="true"></i></span>
                                     </button>    
                                 </div>
